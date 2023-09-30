@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="foto0">Mi mejor amigo</string>
+    <string name="foto0_año">2020</string>
+    <string name="foto0_des">Compañero incondicional</string>
+
+    <string name="foto1">Distancia</string>
+    <string name="foto1_año">2023</string>
+    <string name="foto1_des">Familia que se fue en busca de una mejor oportunidad</string>
+
+    <string name="foto2">Tiempo</string>
+    <string name="foto2_año">2023</string>
+    <string name="foto2_des">Pasar tiempo de calidad con quien se quiere</string>
+
+    <string name="foto3">Pequeñas cosas</string>
+    <string name="foto3_año">2022</string>
+    <string name="foto3_des">La felicidad está en los pequeños momentos juntos</string>
+
+    <string name="foto4">Rodar</string>
+    <string name="foto4_año">2020</string>
+    <string name="foto4_des">La tranquilidad de andar sin rumbo fijo</string>
+
+    <string name="foto5">Juntos</string>
+    <string name="foto5_año">2022</string>
+    <string name="foto5_des">La alegría de poder compartir juntos.</string>
+
+    <string name="foto6">Sobrinos</string>
+    <string name="foto6_año">2023</string>
+    <string name="foto6_des">Personitas que se sienten como hijos</string>
+
+    <string name="foto7">Amor de mi vida</string>
+    <string name="foto7_año">2023</string>
+    <string name="foto7_des">Lo mejor que le ha pasado a mi vida</string>
+
+    <string name="foto8">Madre</string>
+    <string name="foto8_año">2023</string>
+    <string name="foto8_des">La compañia que nunca falta</string>
+
+    <string name="foto9">Pilares</string>
+    <string name="foto9_año">2022</string>
+    <string name="foto9_des">Las rocas de las que me formé </string>
+
+    <string name="name">Hernando Lopéz Rincón</string>
+    <string name="codigo">2022318</string>
+    <string name="name_boton_previous">Back</string>
+    <string name="name_boton_next">Next</string>
+    <string name="vacio">" "</string>
+
+
+</resources>
